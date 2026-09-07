@@ -56,8 +56,6 @@ DCGAN implementation using Python, TensorFlow, Keras and MNIST.
 ### 🏆 Recent Wins & Milestones
 
 `NASA Space Apps Challenge — Local Winner`
-`PromptWars — 1st Place`
-`Code Clash — 2nd Place`
 `LeetCode — 50 Day Streak`
 
 ---
@@ -66,7 +64,7 @@ DCGAN implementation using Python, TensorFlow, Keras and MNIST.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=suprajushivajji&show_icons=true&hide_border=true&theme=transparent" height="165"/>
+
 
 <img src="https://streak-stats.demolab.com?user=suprajushivajji&hide_border=true&theme=transparent" height="165"/>
 
