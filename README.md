@@ -67,7 +67,8 @@ DCGAN implementation using Python, TensorFlow, Keras and MNIST.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=suprajushivajji&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-<img src="https://streak-stats.demolab.com?user=suprajushivajivajji&hide_border=true&theme=transparent" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=suprajushivajji&hide_border=true&theme=transparent" height="165"/>
 
 </div>
 
